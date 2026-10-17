@@ -13,4 +13,8 @@ Monday
 -  4pm-6pm - comp 1238 INTRODUCTION TO DATA MGMT.
 
 Tuesday
-- 12pm-2pm
+- 12pm-2pm - comp 1236 FUND. OF COMPUTING LOGIC
+- 6pm-8pm - comp 1234 INTRODUCTION TO WEB DEVELOP
+
+Wednesday
+-
