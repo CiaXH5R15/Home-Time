@@ -17,4 +17,9 @@ Tuesday
 - 6pm-8pm - comp 1234 INTRODUCTION TO WEB DEVELOP
 
 Wednesday
--
+- 10pm-12pm - comp 1234 INTRODUCTION TO WEB DEVELOP
+- 12pm-2pm - comp 1162 MATH FOR COMPUTER TECHNOLOGY I
+- 3pm-6pm - comp 1000 INTRO TO COLLEGE COMMUNIC
+
+Friday
+- 12pm-2pm
