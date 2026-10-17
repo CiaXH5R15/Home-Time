@@ -7,4 +7,4 @@ the home assingment
 - [Comp1238](https://github.com/CiaXH5R15/Home-Time/blob/main/comp1238.md)](comp1238.md)
 
 ## Scheduale 
-Monday
+- Monday 12am - comp 1151 IT ESSENTIALS
