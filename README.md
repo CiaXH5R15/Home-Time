@@ -11,4 +11,5 @@ Monday
 -  12pm-2pm - comp 1151 IT ESSENTIALS
 -  2pm-4pm - comp 1236 FUND. OF COMPUTING LOGIC
 -  4pm-6pm - comp 1238 INTRODUCTION TO DATA MGMT.
--  
+Tuesday
+- 12pm-2pm
